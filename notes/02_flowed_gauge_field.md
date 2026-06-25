@@ -1,0 +1,1 @@
+Correlation functions of flowed gauge fields are finite at positive flow time without further renormalization.

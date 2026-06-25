@@ -1,0 +1,1 @@
+Correlation functions involving flowed fermion fields require a multiplicative renormalization $Z_\chi$.
